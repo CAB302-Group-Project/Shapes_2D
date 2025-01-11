@@ -18,3 +18,6 @@ The task this week is the implementation of an application that models 2 dimensi
 
 > [!TIP]
 > If you are unfamiliar with UML Class Diagrams (UML === Unified Modelling Language) then refer to the **UML Class Diagram Essentials** on Canvas - Activity 1.3
+
+![UML Class Diagram for implementation of Shapes 2D application.](/images/UML_Class_Diagram_shapes2D.png)
+Figure 1 - UML for Shapes2D Application  
