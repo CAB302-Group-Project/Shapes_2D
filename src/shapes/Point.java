@@ -36,7 +36,7 @@ public class Point {
      * Setter for x-axis position of point object
      * @param value for the x-axis coordinate
      */
-    public void setXCord(double value) {
+    private void setXCord(double value) {
         this.xCord = value;
     }
 
@@ -52,7 +52,7 @@ public class Point {
      * Setter for y-axis position of point object
      * @param value for the y-axis coordinate
      */
-    public void setYCord(double value) {
+    private void setYCord(double value) {
         this.yCord = value;
     }
 
