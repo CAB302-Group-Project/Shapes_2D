@@ -21,3 +21,6 @@ The task this week is the implementation of an application that models 2 dimensi
 
 ![UML Class Diagram for implementation of Shapes 2D application.](/images/UML_Class_Diagram_shapes2D.png)
 Figure 1 - UML for Shapes2D Application  
+
+## Activity - Develop the Shapes 2D Application.
+This progam models multiple different shapes - Circle, Equlateral Triangle, Recrtangle and a Square - and calculates the area of the shapes, transforms the vertives to shift the shape in space, and has some aditional functionlaity such as the ability to determine if some of them contain a Point or a number of points.
