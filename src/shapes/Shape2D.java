@@ -9,7 +9,7 @@ package shapes;
  * Shape2D is a shared common ancestor between the shape classes as each of these classes subclass
  * Shape2D
  */
-public abstract class statShape2D {
+public abstract class Shape2D {
 
 
     public Shape2D(Point centre) {
