@@ -75,3 +75,5 @@ OOP is an essential requirement that you must master and be part of your program
 
 OOP is an important skill to acquire and to understand, however, equally it is not suitable for all problem domains. It does take some time to master OOP and the best advice we can give to programming students is simple.....
 **Write code, write code, write code, write code........** You cannot break anything so experiment with the code we provide and extend it, change it, try alternatives. Only by writing code and attempting various techniques will you learn the benefits of OOP as well as the limitations. While reading about these concepts is worthwhile, writing code, making changes and experimenting (add another shape class such as octagon and/or rhombus) is the best way to learn how OOP operates and the advantages it provides. You cannot break anything by writing code and experimenting. We learn more from our mistakes than our sucessess.
+#   S h a p e s 2 D  
+ 
